@@ -1,0 +1,1 @@
+ qemu-system-i386.exe -fda thinkos.img -m 512M
